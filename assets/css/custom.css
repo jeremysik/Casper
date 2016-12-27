@@ -1,0 +1,15 @@
+/* ==========================================================================
+   14. Custom CSS for Rewrite Routine
+   ========================================================================== */
+
+.embedded-instagram {
+    padding-bottom: 1.75em;
+}
+
+.embedded-instagram iframe {
+    margin: 0 auto !important; /* Center the iFrame in the div, override Instagram's margin settings */
+}
+
+.p-before-instagram {
+    margin-bottom: 0.75em;
+}
